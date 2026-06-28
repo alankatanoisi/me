@@ -1,0 +1,9 @@
+title: Alan Katanoisi
+email: ""
+description: >-
+  Personal landing page and blog.
+baseurl: ""
+url: ""
+theme: minima
+plugins:
+  - jekyll-feed
